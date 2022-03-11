@@ -1,2 +1,4 @@
 # BallAttackGameFile
 BallAttackGame-GameFile
+要するに部活の新入生に展示するゲームをこっちでも公開するので遊んでみてくれ
+ってこと
